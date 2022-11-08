@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afdaapala
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning js, python
+- 🌱 I’m currently learning js, python & fullstack in everything
 - 💞️ I’m looking to collaborate on tailorized information system for goverment
 - 📫 How to reach me afdaapala@rocketmail.com
 
